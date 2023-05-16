@@ -1,1 +1,1 @@
-# Practica6_PopcornFactory
+# LA RAMA DONDE ESTÁ EL PROYECTO COMPLETO ES LA RAMA "MASTER"
